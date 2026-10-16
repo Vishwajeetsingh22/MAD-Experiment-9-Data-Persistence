@@ -154,17 +154,21 @@ class MainActivity : Activity() {
 ```
 
 > **Note:** The `MainActivity.kt` snippet demonstrates SharedPreferences and database setup. Add note UI event handlers using the methods in `DatabaseHelper.kt`, or use the complete activity implementation in your project.
-## Screenshots
+
 
 ## Screenshots
 
 | 1. Login Screen | 2. Profile and Logout |
 |---|---|
-| ![Login Screen](screenshots/1_Login_Screen.png) | ![Profile and Logout](screenshots/2_profile_logout_button.png) |
+| <img width="1373" height="732" alt="1_Login_Screen" src="https://github.com/user-attachments/assets/0917fa53-8d69-441b-a4bd-5ae4625cedd7" />
+ |<img width="1355" height="704" alt="2_profile logout_button" src="https://github.com/user-attachments/assets/bfc28fc6-39d7-40fa-87a5-8cdfcb100cf6" />
+|
 
 | 3. SQLite Database Inspector | 4. MainActivity.kt |
 |---|---|
-| ![SQLite Database](screenshots/3_User_database.png) | ![MainActivity Code](screenshots/4_MainActivity.kt.png) |
+| <img width="1373" height="728" alt="3_User_database" src="https://github.com/user-attachments/assets/e25cb66d-930e-4d7a-989d-8eb14ac1810f" />
+ | <img width="1372" height="725" alt="4_MainActivity kt" src="https://github.com/user-attachments/assets/da6ff520-37c4-422b-a8a7-cd929a5a9a80" />
+ |
 
 
 ## Data Persistence
