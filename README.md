@@ -157,32 +157,15 @@ class MainActivity : Activity() {
 
 ## Screenshots
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <strong>1. Login Screen</strong><br/>
-      <img src="<img width="1373" height="732" alt="1_Login_Screen" src="https://github.com/user-attachments/assets/1782c05a-374f-4480-8145-6219742ddd50" />
-" alt="PersistX login screen" width="100%"/>
-    </td>
-    <td align="center" width="50%">
-      <strong>2. Profile and Logout</strong><br/>
-      <img src="<img width="1355" height="704" alt="2_profile logout_button" src="https://github.com/user-attachments/assets/35d5460c-f4c6-4a55-a3a6-77bfed3e2b6b" />
-" alt="PersistX profile and logout screen" width="100%"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <strong>3. SQLite Database Inspector</strong><br/>
-      <img src="<img width="1373" height="728" alt="3_User_database" src="https://github.com/user-attachments/assets/46a51e5c-8f0d-4e4c-9955-1ef81069bd49" />
-" alt="Database Inspector showing local SQLite tables" width="100%"/>
-    </td>
-    <td align="center" width="50%">
-      <strong>4. MainActivity.kt in Android Studio</strong><br/>
-      <img src="<img width="1372" height="725" alt="4_MainActivity kt" src="https://github.com/user-attachments/assets/50d796a6-e987-4b1d-8580-35ac487ec14c" />
-" alt="MainActivity Kotlin code in Android Studio" width="100%"/>
-    </td>
-  </tr>
-</table>
+| 1. Login Screen | 2. Profile and Logout |
+|---|---|
+| ![Login Screen](<img width="1373" height="732" alt="1_Login_Screen" src="https://github.com/user-attachments/assets/5e5081e3-b69c-4755-b7dd-11b6978cbed9" />
+) | ![Profile and Logout](<img width="1355" height="704" alt="2_profile logout_button" src="https://github.com/user-attachments/assets/8c775e26-2441-4d73-9ecd-d071fe373bd5" />
+) |
+| **3. SQLite Database Inspector** | **4. MainActivity.kt** |
+| ![SQLite Database](<img width="1373" height="728" alt="3_User_database" src="https://github.com/user-attachments/assets/6d3b5fff-2f6f-4705-8598-417eeab59a0c" />
+) | ![MainActivity Code](<img width="1372" height="725" alt="4_MainActivity kt" src="https://github.com/user-attachments/assets/3acb57fe-ed87-4718-a018-6f2f3f7a19c9" />
+) |
 
 ## Data Persistence
 - **SharedPreferences** stores small key-value information, such as saved profile details.
