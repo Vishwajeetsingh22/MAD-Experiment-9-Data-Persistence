@@ -154,19 +154,15 @@ class MainActivity : Activity() {
 ```
 
 > **Note:** The `MainActivity.kt` snippet demonstrates SharedPreferences and database setup. Add note UI event handlers using the methods in `DatabaseHelper.kt`, or use the complete activity implementation in your project.
-
 ## Screenshots
 
 | 1. Login Screen | 2. Profile and Logout |
 |---|---|
-| ![Login Screen]<img width="1373" height="732" alt="1_Login_Screen" src="https://github.com/user-attachments/assets/5e5081e3-b69c-4755-b7dd-11b6978cbed9" />
- | ![Profile and Logout]<img width="1355" height="704" alt="2_profile logout_button" src="https://github.com/user-attachments/assets/8c775e26-2441-4d73-9ecd-d071fe373bd5" />
-|
-| **3. SQLite Database Inspector** | **4. MainActivity.kt** |
-| ![SQLite Database]<img width="1373" height="728" alt="3_User_database" src="https://github.com/user-attachments/assets/6d3b5fff-2f6f-4705-8598-417eeab59a0c" />
-| ![MainActivity Code]<img width="1372" height="725" alt="4_MainActivity kt" src="https://github.com/user-attachments/assets/3acb57fe-ed87-4718-a018-6f2f3f7a19c9" />
- |
+| ![Login Screen](screenshots/1_Login_Screen.png) | ![Profile and Logout](screenshots/2_profile_logout_button.png) |
 
+| 3. SQLite Database Inspector | 4. MainActivity.kt |
+|---|---|
+| ![SQLite Database](screenshots/3_User_database.png) | ![MainActivity Code](screenshots/4_MainActivity.kt.png) |
 ## Data Persistence
 - **SharedPreferences** stores small key-value information, such as saved profile details.
 - **SQLite** stores structured records in local database tables.
