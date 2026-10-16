@@ -158,17 +158,28 @@ class MainActivity : Activity() {
 
 ## Screenshots
 
-| 1. Login Screen | 2. Profile and Logout |
-|---|---|
-| <img width="1373" height="732" alt="1_Login_Screen" src="https://github.com/user-attachments/assets/0917fa53-8d69-441b-a4bd-5ae4625cedd7" />
- |<img width="1355" height="704" alt="2_profile logout_button" src="https://github.com/user-attachments/assets/bfc28fc6-39d7-40fa-87a5-8cdfcb100cf6" />
-|
-
-| 3. SQLite Database Inspector | 4. MainActivity.kt |
-|---|---|
-| <img width="1373" height="728" alt="3_User_database" src="https://github.com/user-attachments/assets/e25cb66d-930e-4d7a-989d-8eb14ac1810f" />
- | <img width="1372" height="725" alt="4_MainActivity kt" src="https://github.com/user-attachments/assets/da6ff520-37c4-422b-a8a7-cd929a5a9a80" />
- |
+<table>
+  <tr>
+    <td align="center"><b>1. Login Screen</b></td>
+    <td align="center"><b>2. Profile and Logout</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="<img width="1373" height="732" alt="1_Login_Screen" src="https://github.com/user-attachments/assets/93da9ee8-c19f-4eb8-be9c-992262c940d9" />
+" width="100%" alt="Login Screen"/></td>
+    <td align="center"><img src="<img width="1355" height="704" alt="2_profile logout_button" src="https://github.com/user-attachments/assets/94f0539f-9fee-4879-a2b2-049bdda222cd" />
+" width="100%" alt="Profile and Logout"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>3. SQLite Database Inspector</b></td>
+    <td align="center"><b>4. MainActivity.kt</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="<img width="1373" height="728" alt="3_User_database" src="https://github.com/user-attachments/assets/4cd7a780-80f6-4a32-a142-c8025ee4f030" />
+" width="100%" alt="SQLite Database Inspector"/></td>
+    <td align="center"><img src="<img width="1372" height="725" alt="4_MainActivity kt" src="https://github.com/user-attachments/assets/4f5fa071-c9ec-4e2a-a163-e625f6727c52" />
+" width="100%" alt="MainActivity Kotlin Code"/></td>
+  </tr>
+</table>
 
 
 ## Data Persistence
