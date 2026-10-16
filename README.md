@@ -156,13 +156,18 @@ class MainActivity : Activity() {
 > **Note:** The `MainActivity.kt` snippet demonstrates SharedPreferences and database setup. Add note UI event handlers using the methods in `DatabaseHelper.kt`, or use the complete activity implementation in your project.
 ## Screenshots
 
-| 1. Login Screen | 2. Profile and Logout |
-|---|---|
-| ![Login Screen](screenshots/1_Login_Screen.png) | ![Profile and Logout](screenshots/2_profile_logout_button.png) |
+## Screenshots
 
-| 3. SQLite Database Inspector | 4. MainActivity.kt |
-|---|---|
-| ![SQLite Database](screenshots/3_User_database.png) | ![MainActivity Code](screenshots/4_MainActivity.kt.png) |
+<table>
+<tr>
+<td align="center"><b>1. Login Screen</b><br><img src="https://raw.githubusercontent.com/Vishwajeetsingh22/MAD-Experiment-9-Data-Persistence/main/screenshots/1_Login_Screen.png" width="100%" alt="Login Screen"></td>
+<td align="center"><b>2. Profile and Logout</b><br><img src="https://raw.githubusercontent.com/Vishwajeetsingh22/MAD-Experiment-9-Data-Persistence/main/screenshots/2_profile_logout_button.png" width="100%" alt="Profile and Logout"></td>
+</tr>
+<tr>
+<td align="center"><b>3. SQLite Database Inspector</b><br><img src="https://raw.githubusercontent.com/Vishwajeetsingh22/MAD-Experiment-9-Data-Persistence/main/screenshots/3_User_database.png" width="100%" alt="SQLite Database"></td>
+<td align="center"><b>4. MainActivity.kt</b><br><img src="https://raw.githubusercontent.com/Vishwajeetsingh22/MAD-Experiment-9-Data-Persistence/main/screenshots/4_MainActivity.kt.png" width="100%" alt="MainActivity Kotlin Code"></td>
+</tr>
+</table>
 ## Data Persistence
 - **SharedPreferences** stores small key-value information, such as saved profile details.
 - **SQLite** stores structured records in local database tables.
