@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PersistX_Exp-9</string>
+    <string name="welcome_back">Welcome back, %s!</string>
+    <string name="profile_status_default">Your saved profile will appear here.</string>
+    <string name="no_notes_yet">No notes yet. Create your first note!</string>
+    <string name="delete_note">Delete Note</string>
+    <string name="note_deleted">Note deleted</string>
+</resources>

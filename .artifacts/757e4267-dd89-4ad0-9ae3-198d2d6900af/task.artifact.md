@@ -1,0 +1,4 @@
+- [ ] Update `DatabaseHelper.kt` with `LoginDatabase.db` and `users` table (`username`, `password`) `[ ]`
+- [ ] Update `activity_main.xml` with the login card layout matching reference screenshots `[ ]`
+- [ ] Update `MainActivity.kt` to wire up inputs, `DatabaseHelper`, and database insertion `[ ]`
+- [ ] Build and verify project compilation `[ ]`
